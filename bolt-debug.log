@@ -1,0 +1,4 @@
+2023-02-28T09:07:55.448150 INFO   [main] [Bolt::Logger] Loaded project from '/Users/chris.allen/Library/CloudStorage/OneDrive-PERFORCESOFTWARE,INC/code/boltvalidation'
+2023-02-28T09:07:55.520344 DEBUG  [main] [Bolt::Executor] Started with 100 max thread(s)
+2023-02-28T09:07:56.375435 DEBUG  [main] [Bolt::PAL] Loading modules from /opt/puppetlabs/bolt/lib/ruby/gems/2.7.0/gems/bolt-3.26.2/bolt-modules:/Users/chris.allen/Library/CloudStorage/OneDrive-PERFORCESOFTWARE,INC/code/boltvalidation/modules:/Users/chris.allen/Library/CloudStorage/OneDrive-PERFORCESOFTWARE,INC/code/boltvalidation/.modules:/opt/puppetlabs/bolt/lib/ruby/gems/2.7.0/gems/bolt-3.26.2/modules
+2023-02-28T09:07:56.376453 DEBUG  [main] [Bolt::Inventory] Loaded inventory from /Users/chris.allen/Library/CloudStorage/OneDrive-PERFORCESOFTWARE,INC/code/boltvalidation/inventory.yaml
